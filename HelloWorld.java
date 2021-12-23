@@ -6,5 +6,6 @@ public class HelloWorld {
     System.out.println("happy sunkranthi");
     System.out.println("happy kanuma")
     System.out.println("happy kanuma")
+    System.out.println("happy ugadi")
   }
 }
