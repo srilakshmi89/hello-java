@@ -7,5 +7,6 @@ public class HelloWorld {
     System.out.println("happy kanuma")
     System.out.println("happy kanuma")
     System.out.println("happy ugadi")
+    System.out.println("happy ugadi")
   }
 }
