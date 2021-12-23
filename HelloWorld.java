@@ -10,5 +10,6 @@ public class HelloWorld {
     System.out.println("happy sunkranthi");
     system.out.println("happy vinayakachavithi");
     System.out.println("happy ugadi");
+    System.out.println("happy ugadi");
   }
 }
