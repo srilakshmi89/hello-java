@@ -1,16 +1,5 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
-    System.out.println("Happy cristamas");
-    System.out.println("happy new year");
-    System.out.println("happy sunkranthi")
-    System.out.println("happy kanuma");
-    System.out.println("happy ugadi");
-    System.out.println("happy ugadi");
-    System.out.println("happy sunkranthi");
-    system.out.println("happy vinayakachavithi");
-    System.out.println("happy ugadi");
-    System.out.println("happy ugadi");
-    System.out.println("Hello, World");
   }
 }
